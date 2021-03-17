@@ -1,2 +1,2 @@
-O trabalho consiste em um programa que cria uma matriz esparsa m por n, cujos valores n e m são escolhidos pelo usuário. O programa cria a matriz, soma linhas ou colunas escolhidas, além de excluir e modificar a matriz quando requisitado.
+The project consists of a program that creates a sparse matrix m by n, whose values â€‹â€‹n and m are chosen by the user. The program creates the matrix, adds chosen rows or columns, in addition to deleting and modifying the matrix when requested.
 	
